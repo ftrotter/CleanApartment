@@ -8,7 +8,7 @@ data_spec_name: LaundryProject
 
 ## Report 1: 
 ### Business Questions
-What kind of laundry does Fred have to do?
+What kind of laundry does Fred have to do? Should he throw away some t-shirts?
 
 ### Source Data
 * VRDC Medicaid Max
