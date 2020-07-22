@@ -11,4 +11,4 @@ Acme is a family owned cleaning company based in Houston, TX.
 # Project Name: Laundry Project
 
 # Project Use Case
-This is a data specification for me to provide about how disorganized and cluttered my kitchen is
+This is a data specification for me to provide about how disorganized and cluttered my kitchen is. In order to make an estimate for work!
