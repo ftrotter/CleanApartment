@@ -7,7 +7,7 @@ data_spec_name: LaundryProject
 ---
 ## Report 1: 
 ### Business Questions
-This report shows how many different types of dishes in the kitchen.
+This report shows how many different types of dishes in the kitchen. Using this we can estimate the time it would take to do dishes.
 
 ### Source Data
 * VRDC Part C Data
