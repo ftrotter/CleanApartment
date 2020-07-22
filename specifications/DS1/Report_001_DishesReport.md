@@ -27,3 +27,4 @@ Then count the glasses and assume that there are half as many coffee mugs.
 2. Dish Color
 #### Calculated Fields
 3. Dish Count
+4. Chipped Count
