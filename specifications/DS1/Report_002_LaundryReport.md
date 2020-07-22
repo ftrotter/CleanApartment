@@ -3,6 +3,7 @@ client: Pfizer
 project_key: project_key_here
 contract_due_date: 2020-08-18
 contract_signed_date: 2020-07-01
+data_spec_name: LaundryProject
 ---
 
 ## Report 1: 
